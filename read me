@@ -1,0 +1,1 @@
+start off with a base case of if new color is the same color as the current image then return nothing. then we recusively call the helper method fill to edit top, bottom, left, and right spots on the graph. base case is when we can no longer edit the graph if its out of bounds or no longer connected to the color. 
